@@ -1,0 +1,186 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration concerning the miserable sufferings of the countrie, under some of the Scots forces that quarter in the north of England, certified in two severall letters from the inhabitants of Stainton, and Cleaveland. Printed and published according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82074</idno>
+            <idno type="STC">Wing D574</idno>
+            <idno type="STC">Thomason E358_18</idno>
+            <idno type="STC">ESTC R201162</idno>
+            <idno type="EEBO-CITATION">99861710</idno>
+            <idno type="PROQUEST">99861710</idno>
+            <idno type="VID">113852</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82074)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113852)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 58:E358[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration concerning the miserable sufferings of the countrie, under some of the Scots forces that quarter in the north of England, certified in two severall letters from the inhabitants of Stainton, and Cleaveland. Printed and published according to order.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E.E.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: title altered to read, after 'two severall letters': "said to be written" from the inhabitants of Stainton, and Cleaveland, "but made at London by ye Ind." [i.e Independents]; "Octob: 24th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland. --  Army --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649. --  Confiscations and contributions --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113852:1"/>
+            <pb facs="tcp:113852:1" rendition="simple:additions"/>
+            <p>A DECLARATION CONCERNING The miſerable ſuffer<g ref="char:EOLhyphen"/>INGS OF THE COVNTRIE, under ſome of the SCOTS FORCES that quarter in the NORTH OF ENGLAND,</p>
+            <p>Certified in two ſeverall <add>said to be</add> LETTERS <add>written</add> from the Inhabitants of Stainton, and Cleaveland. <add>but made at London by y<hi rend="sup">e</hi> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</add>
+            </p>
+            <p>Printed and Publiſhed according to Order.</p>
+            <p>
+               <add>Octob: 24<hi rend="sup">th</hi>
+               </add> LONDON <hi>Printed by</hi> E. E. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:113852:2"/>
+            <pb n="1" facs="tcp:113852:2"/>
+            <head>A DECLARATJON Concerning the miſerable ſufferings of the COVNTRIE under ſome of the Scots forces that quarter in the North of England, certified in two ſeverall letters from the Inhabitants of Stainton, and Cleaveland.</head>
+            <div type="letter">
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>I Am very ſorry that there is ſo little credit given to our Petitions and letters; if thoſe that have not faith to believe them had but our geſts amongſt them one moneth: they would be more ſencible of our ſufferings; In the in<g ref="char:EOLhyphen"/>terim ſo long as we have either Cattel or Corne,
+<pb n="2" facs="tcp:113852:3"/>they will coinhabit with us, and command, and without limit exact, untill they ſee an end of us, and ours; no part of this Kingdome hath ſuffered ſo much by ſuppoſed friends, as this poore Cleave<g ref="char:punc">▪</g> and; for if it were exactly counted it could not a<g ref="char:EOLhyphen"/>mount to leſſe then 80000. l. yet receive we neither pitty nor reliefe; although it is well knowne, that when the Scots were in the Weſt; we paid a month<g ref="char:EOLhyphen"/>ly aſceſment for 4. moneths; But now the whole Army is gotten into the North and there they Lord it, without any contribution from any part of this Kingdome: certainly the Southern parts ſup<g ref="char:EOLhyphen"/>poſe that the Scots are marched into their own Country; or elſe this North, part is totally aſſign<g ref="char:EOLhyphen"/>ed to ruine, and deſtruction; God knowes how many wofull ſoules have weekly, daily, and houre<g ref="char:EOLhyphen"/>ly, expected reliefe; but the time is nor yet come; God in his good time helpe us, for our caſe is mi<g ref="char:EOLhyphen"/>ſerable: divers overtures have been for ſending an<g ref="char:EOLhyphen"/>other Gentleman to aſſiſt you in ſoliciting; but no money can be raiſed for his expence; And he will not undertake it <hi>gratis</hi> as you have done; But I thinke ere long you wi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l have Weſtminſter Hall full of Petitions; for the Country intends to ſend 3. or 4. out of every Towne; in the meane time, Sir, I beſeech you let us ſtill depend upon you, for other hopes we haue none, but what m<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y be (from your endleſſe endeavours, and unwearied paines) deri<g ref="char:EOLhyphen"/>ved:
+<pb n="3" facs="tcp:113852:3"/>Sir no more for the preſent but that I am,</p>
+               <closer>
+                  <signed>Your very humble ſervant, <hi>Signed by the Inhabitants.</hi>
+                  </signed> 
+                  <dateline>Stainton <date>the 12. of October 1646.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>IN ſome of your laſt letters, you ſeemed to com<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ort our dying hopes, and diſpairing ſpirits: that the Scots were to have 200000 l. and ſo to march; and ſince the bruite thereof: I dare affirme their Army hath bin prejudiciall to theſe parts, 1<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0000. l. and for any thing we can perceive their depa<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ture as farre of, as at the firſt; we heare and read the good Language they give you at London: but we feele contrary effects here by their actions: we did hope when the Earle of Newcaſtle was vanq<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſhed, our greateſt miſeries had been paſt: but we have found the contrary, he onely ſucked ſome of our blood, but the Scots have devoured our fl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſh, and are now picking our bones: Betwixt them both, I am ſure neither you nor any Gentleman of this We<g ref="char:EOLhyphen"/>pontake of Langbarfe have made 12. pence profit of their Eſtates; our ſlauery are farre greater then any thoſe of the Turkes both for our perſons and Eſtates, they in Turky are quit for a fifth part, we in a yeare pay our Revenew ſeverall times over, by Ordinances of Parliament, ſince the Scots came in<g ref="char:EOLhyphen"/>to Yorkſhire the whole Country was aſſeſſed per. moneth, 10000. l. 7000. l. now 3500. l. a moneth: but we
+<pb n="4" facs="tcp:113852:4"/>pay now for billet and ſeſſe to the Scots Army here <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fter the rate of a hundred and forty thouſand pounds per menſem, and now a part of this hundred payes a thou<g ref="char:EOLhyphen"/>ſand pounds a week to 2. Regiments of them, we are the abſoluteſt ſlaves that ever was read of; for they aſceſſe us at their plea<g ref="char:EOLhyphen"/>ſure, levy it as they pleaſe, if they bid us go or ride, none dare refuſe, to provide any thing for their appetites though we fetch it 10. miles (they being very exceſſive in their dyet) they kill us in hot blood, beat us in cold, Captaine Iohn VVelden they lately ſlew, in ſeeking to reſcue his neigh<g ref="char:EOLhyphen"/>bours from their Robberies, he hath ſerved faithfully (and with great courage) the Par<g ref="char:EOLhyphen"/>liament, and deſerved a better reward, and what his enemies could not do, is effected by the pretended friends of the Parliament, I would you could uſe ſome meanes to the Parliament that ſome parts of his Ariers might be got for his poore wife: we migh<g ref="char:EOLhyphen"/>tily admire at the Parliaments confidence, and the good opinion the City hath of
+<pb n="5" facs="tcp:113852:4"/>their integrity, I could wiſh ſome viſiters were ſent from them to view their carry<g ref="char:EOLhyphen"/>age &amp; our miſery, our obſervation of them theſe 18. moneths have been farr different from people that came to preſerve us, they have protected Delinquents, Papiſts, not ſuffering the O<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dinances of Parliament to be excecuted, freſh forces daly come in from Scotland, their Gariſons recruited, ad<g ref="char:EOLhyphen"/>ditionall fortifications, great ſupply of vi<g ref="char:EOLhyphen"/>ctualls, the Scots Army being receptacle and ſanctuary of Delinquents and Cavali<g ref="char:EOLhyphen"/>ers, and ſuch as have fought againſt the Kingdome, and for Vandrusks Regiment though disbanded. It is but transferred in<g ref="char:EOLhyphen"/>to ſeverall veines of the Scots Army which the Country feeles to their great coſts and perſonall dangers; on the contrary, the well affected are not onely diſcountenan<g ref="char:EOLhyphen"/>ced, but great &amp; inſupportable burthens are layd upon them; ſo that they are glad to be interceſſors to their enemies for very ſmall courteſies. Theſe are bad ſymptoms, either of a good intention or of a peace be<g ref="char:EOLhyphen"/>twixt
+<pb n="6" facs="tcp:113852:5"/>the Kingdoms: and it will be found; that if we ſhould fall to blowes, (which I tremble to think on) that the waſte and ſpoyle that the Parlia<g ref="char:EOLhyphen"/>ment hath ſuffered the Scots to make here is ſo great; that there will not be found a weeks Provi<g ref="char:EOLhyphen"/>ſion in all this Countrey if they ſhould have occaſi<g ref="char:EOLhyphen"/>on to ſend any confiderable forces hither, whereas about Newcaſtle and Northumberland they keepe things faire and freſh, f a foule day ſhould happen. Sir, in a word, our ſtock is cleane waſted; our lit<g ref="char:EOLhyphen"/>tle corne we had ill got in by reaſon of the great moiſture, we are now threſhing it for the Scots, we are eating our laſt bread; who have been able to get away, are gone. And we do expect a great mor<g ref="char:EOLhyphen"/>tality, the Peſtilence, being begun already amongſt us; we the well affected prayes you to petition the Honourable Houſe of Commons that they will give us 2. or 3. moneths allowance out of our E<g ref="char:EOLhyphen"/>ſtates, having had nothing theſe 5. yeares out of them; or allowance in conſideration of them, protections for our perſons; for our debts; untill we be reſtored to our Eſtates, 4000. l.<hi>per menſem,</hi> we have <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aid to the Scots Army con<g ref="char:EOLhyphen"/>ſtantly ſince they came into this Weapontakee. And laſtly, (Sir) if my name ſhould be knowne, and pro<g ref="char:EOLhyphen"/>duced as Author of this letter, I could not hope to live theſe dayes; ſo terrible are theſe gueſts to us, I will ceaſe to be further troubleſome; and reſt</p>
+               <closer>
+                  <signed>Your aſſured friend to ſerve you, <hi>Signed by the Inhabitants.</hi>
+                  </signed> 
+                  <dateline>Cleveland <date>September the 13. 1646</date>
+                  </dateline>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:113852:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
